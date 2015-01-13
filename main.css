@@ -26,7 +26,7 @@ body {
 
 .module_viewer {
   cursor: default;
-  font-family: "Neuton", sans-serif;
+  font-family: 'Neuton', sans-serif;
   display: inline-block;
   width: 100%; }
   .module_viewer .header {
@@ -74,5 +74,3 @@ body {
       font-size: 20px; }
   .module_viewer .low_emphasis {
     color: #979797; }
-
-/*# sourceMappingURL=main.css.map */
